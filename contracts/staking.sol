@@ -17,9 +17,6 @@ interface non_standard_IERC20 {
     function balanceOf(address account) external view returns (uint256);
 }
 
-interface token_mint {
-    function mint(address _to, uint _amount) external;
-}
 
 contract Staking is Ownable {
 
