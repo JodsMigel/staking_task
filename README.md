@@ -1,3 +1,5 @@
+# Пожалуйста, прочтите describe.txt.
+
 Адрес основного контракта
 # https://ropsten.etherscan.io/address/0x8b701c642c054e1C21A2Ce4Ea4dA75d9EC301285#code
 Адрес токена ТТТ
